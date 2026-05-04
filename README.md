@@ -49,13 +49,6 @@ src/
 
 ## Como executar o projeto
 
-### 1. Clonar o repositório
-
-```
-git clone https://github.com/SEU-USUARIO/react-ecommerce-case.git
-cd react-ecommerce-case
-```
-
 ### 2. Instalar as dependências
 
 ```

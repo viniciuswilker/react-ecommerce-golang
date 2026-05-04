@@ -49,13 +49,13 @@ src/
 
 ## Como executar o projeto
 
-### 2. Instalar as dependências
+### 1. Instalar as dependências
 
 ```
 npm install
 ```
 
-### 3. Executar a aplicação
+### 2. Executar a aplicação
 
 ```
 npm run start

@@ -63,7 +63,7 @@ npm run start
 
 Esse comando inicia simultaneamente o front-end e a API simulada.
 
-### 4. Acessar no navegador
+### 3. Acessar no navegador
 
 ```
 http://localhost:5173
